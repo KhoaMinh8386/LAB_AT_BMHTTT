@@ -1,0 +1,7 @@
+Count Name                      
+----- ----                      
+ 3500 alert-update@service.invalid
+ 2850 notice@verify-account.invalid
+ 1920 promo@marketing-blast.invalid
+  450 billing@partner.invalid   
+   12 legitimate-user@work.invalid

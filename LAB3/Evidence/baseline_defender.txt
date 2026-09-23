@@ -1,0 +1,4 @@
+AntivirusEnabled          : True
+RealTimeProtectionEnabled : True
+IsTamperProtected         : True
+AntivirusSignatureVersion : 1.417.850.0

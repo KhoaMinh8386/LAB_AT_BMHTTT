@@ -1,0 +1,9 @@
+--- Local Load Test Report ---
+Target URL    : http://127.0.0.1:8080/
+Total Requests: 50
+Workers       : 5
+Success (OK)  : 50
+Failures      : 0
+Elapsed Time  : 0.428 s
+Avg Latency   : 0.038 s
+Status        : Completed successfully. No external traffic generated.

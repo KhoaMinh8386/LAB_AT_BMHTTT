@@ -1,0 +1,6 @@
+Count    : 8732
+Average  : 45820.45
+Sum      : 400085880
+Maximum  : 1048576
+Minimum  : 1024
+Property : SizeBytes

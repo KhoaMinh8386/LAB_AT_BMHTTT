@@ -1,0 +1,4 @@
+InputObject                                                                                                                         SideIndicator
+-----------                                                                                                                         -------------
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run,LAB3_Run_Demo,notepad.exe,Microsoft Corporation,C:\Windows\System32\notepad.exe <=           
+\LAB3_Persistence_Demo,Task Scheduler,cmd.exe /c echo LAB3_TASK_OK>>...,Microsoft Corporation,C:\Windows\System32\cmd.exe          <=

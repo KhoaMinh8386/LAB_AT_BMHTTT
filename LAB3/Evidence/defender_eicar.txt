@@ -1,0 +1,4 @@
+ThreatID            : 2147519003
+InitialDetectionTime: 9/23/2026 11:48:22 AM
+Resources           : {file:_C:\LAB3\Evidence\eicar.com.txt}
+ActionSuccess       : True

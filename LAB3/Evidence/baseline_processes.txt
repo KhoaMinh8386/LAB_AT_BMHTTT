@@ -1,0 +1,15 @@
+ProcessName          Id Path                                                     
+-----------          -- ----                                                     
+cmd                 3120 C:\Windows\System32\cmd.exe                              
+conhost             4284 C:\Windows\System32\conhost.exe                          
+csrss                624 C:\Windows\System32\csrss.exe                            
+explorer            5112 C:\Windows\explorer.exe                                  
+lsass                836 C:\Windows\System32\lsass.exe                            
+MsMpEng             3892 C:\ProgramData\Microsoft\Windows Defender\Platform\MsMpEng.exe
+powershell          6744 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+services             812 C:\Windows\System32\services.exe                         
+smss                 416 C:\Windows\System32\smss.exe                            
+Sysmon64            2456 C:\Windows\Sysmon64.exe                                  
+system                 4                                                          
+wininit              728 C:\Windows\System32\wininit.exe                          
+winlogon             800 C:\Windows\System32\winlogon.exe

@@ -1,0 +1,6 @@
+InterfaceAlias       : Ethernet0
+InterfaceIndex       : 4
+InterfaceDescription : Intel(R) 82574L Gigabit Network Connection
+NetIPv4Addresses     : {192.168.126.130}
+IPv4DefaultGateway   : {}
+DNSServer            : {}
